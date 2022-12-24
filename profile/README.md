@@ -8,7 +8,6 @@ Wintermute Core Github repositories
 * Crawlers
 * Automation
 
-
 ```
   Wintermute Core S.R.L. 
   Capital: 200 Lei
